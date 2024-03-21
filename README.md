@@ -1,4 +1,4 @@
 # Content:
-## Lab1: Introduction
-## Lab2: Classification
-## Lab3: Regression
+## Lab01: Introduction
+## Lab02: Classification
+## Lab03: Regression
